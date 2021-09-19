@@ -1,0 +1,19 @@
+div.item {
+	border-style: ridge;
+}
+
+img {
+	box-sizing: border-box;
+	width: 100%;
+	padding: 10px;
+}
+
+p.name {
+	padding-left: 0.5em;
+	font-size: 1em
+}
+
+p.author {
+	padding-left: 0.5em;
+	font-size: 0.8em;
+}
